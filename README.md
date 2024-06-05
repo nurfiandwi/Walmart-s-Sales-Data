@@ -7,15 +7,15 @@ Examining this dataset provides insightful information about Walmart's clientele
 The contents of this data set are: 
 
 
-User_ID: User ID 
-Product_Id: Product ID 
-Gender: Sex of User 
-Age: Age in bins 
-Occupation: Occuption(Masked) 
-City_Category: Category of the City (A,B,C) 
-StayInCurrentCityYears: Number of years stay in current city 
-Marital_Status: Marital Status Product
-ProductCategory: Product Category (Masked)
-Purchase: Purchase Amount
+* User_ID: User ID
+* Product_Id: Product ID 
+* Gender: Sex of User 
+* Age: Age in bins 
+* Occupation: Occuption(Masked) 
+* City_Category: Category of the City (A,B,C) 
+* StayInCurrentCityYears: Number of years stay in current city 
+* Marital_Status: Marital Status Product
+* ProductCategory: Product Category (Masked)
+* Purchase: Purchase Amount
 
 source: https://www.kaggle.com/datasets/devarajv88/walmart-sales-dataset/data
